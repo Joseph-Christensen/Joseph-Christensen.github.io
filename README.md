@@ -1,10 +1,8 @@
-# Joseph Christensen Home Page
-
-## About Me
+# About Me
 
 Hi, my name is Joseph Christensen, and I am a Sophomore in the Computer Science program at Brigham Young University. This is where I will display all of the projects I have worked on. I don't have much yet, but I will be working hard to fill up this page!
 
-## Projects
+# Projects
 
 ### Chess: https://github.com/Joseph-Christensen/chess
 
